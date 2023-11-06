@@ -1,4 +1,4 @@
-[
+{preguntas: [
     {
         "userId": 1,
         "id": 1,
@@ -108,3 +108,4 @@
         "respuesta": "eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam"
     }
 ]
+}
